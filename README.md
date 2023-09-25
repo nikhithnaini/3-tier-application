@@ -1,9 +1,15 @@
+
 ## Deploying 3-Tier Architecture with Terraform
 This README provides a brief guide on deploying a 3-tier architecture using Terraform. 
 
 The 3-tier architecture consists of three layers: the presentation layer, the application layer, and the data layer. 
 
 We will use Terraform to provision resources on a cloud provider of your choice (e.g., AWS, Azure, GCP) to set up this architecture.
+
+
+![alt text](https://miro.medium.com/max/761/1*DvuvxEPeuCgjefJugj4Idg.jpeg)
+
+
 
 ## Prerequisites
 Before you begin, make sure you have the following:
